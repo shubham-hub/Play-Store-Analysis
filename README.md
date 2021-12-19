@@ -8,7 +8,9 @@ Google Play Store or formerly Android Market, is a digital distribution service 
 
 **Github Code link** - https://github.com/shubham-hub/Play-Store-Analysis/blob/main/Capstone_Project_1_Shubham_Chavhan.ipynb
 
-**Github PPT link**  - 
+
+**Github PPT link**  - https://github.com/shubham-hub/Play-Store-Analysis/blob/main/Capstone_Projet_PPT.pdf
+
 
 ## Conclusion
 As per the EDA, most of the trending apps (in terms of users' installs) are from the categories like **Game, Communication**, and **Tool** even though the amount of available apps from these categories are twice as much lesser than the category **Family**. The trending of these apps are most probably due to their nature of being able to entertain or assist the user. Besides, it also shows a good trend where we can see that developers from these categories are focusing on the quality instead of the quantity of the apps.
