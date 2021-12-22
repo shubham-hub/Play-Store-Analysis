@@ -9,7 +9,7 @@ Google Play Store or formerly Android Market, is a digital distribution service 
 **Github Code link** - https://github.com/shubham-hub/Play-Store-Analysis/blob/main/Capstone_Project_1_Shubham_Chavhan.ipynb
 
 
-**Github PPT link**  - https://github.com/shubham-hub/Play-Store-Analysis/blob/main/Capstone_Projet_PPT.pdf
+**Github PPT link**  - https://github.com/shubham-hub/Play-Store-Analysis/blob/main/Play%20Store%20Project%20-%20PPT.pdf
 
 
 ## Conclusion
